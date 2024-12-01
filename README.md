@@ -1,7 +1,3 @@
-Aqui está o README atualizado para refletir as mudanças trazidas pela versão 1.1.0:
-
----
-
 ### **Hakita Supremacy**
 
 **Hakita Supremacy** is a whimsical mod for ULTRAKILL that adds a unique challenge to your gameplay. Upon starting a level, a plushie of the game’s lead developer, Hakita, will spawn near you. Your mission? Complete the game while carrying the plushie through every stage! A fun and quirky twist inspired by a personal challenge.
@@ -83,7 +79,3 @@ Thank you for trying out **Hakita Supremacy**! With the Plushie Perfection Updat
 - Organized plushie spawn positioning to prevent chaotic scatter.
 - Notifications for plushie respawns.
 - Bug fixes and optimizations for smoother gameplay.
-
---- 
-
-O README agora reflete todas as melhorias da atualização v1.1.0, com destaque para as novidades, garantindo clareza para novos e antigos usuários do mod.
