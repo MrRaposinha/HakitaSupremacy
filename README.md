@@ -7,7 +7,6 @@
 ## 🌟 Features
 
 - **Hakita Plushie Spawner**: Automatically spawns a plushie of Hakita at the start of every level.
-- **Persistent Plushie**: The plushie respawns upon player death or if it falls out of the map, ensuring you never lose your challenge companion.
 - **Smart Respawn System** *(New in v1.1.0)*: Plushies that fall into the void or disappear from the map are automatically teleported back to the player.
 - **Organized Spawn** *(New in v1.1.0)*: Plushies now spawn neatly stacked above the player’s head at the start of each level, preventing chaotic scatter.
 - **Notification System** *(New in v1.1.0)*: A message now appears when plushies are respawned, indicating the exact number retrieved.
@@ -19,6 +18,7 @@
 ## 🚧 Limitations
 
 - **Manual Checkpoint Restarts**: Plushies do not respawn when the player forcefully restarts from a checkpoint, requiring additional care during these scenarios.
+- **Persistent Plushie**: The plushie respawns only if it falls out of the map or is removed, but no longer respawns automatically upon player death.
 
 ---
 
