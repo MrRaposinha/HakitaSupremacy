@@ -1,3 +1,7 @@
+Aqui está o README atualizado para refletir as mudanças trazidas pela versão 1.1.0:
+
+---
+
 ### **Hakita Supremacy**
 
 **Hakita Supremacy** is a whimsical mod for ULTRAKILL that adds a unique challenge to your gameplay. Upon starting a level, a plushie of the game’s lead developer, Hakita, will spawn near you. Your mission? Complete the game while carrying the plushie through every stage! A fun and quirky twist inspired by a personal challenge.
@@ -7,7 +11,10 @@
 ## 🌟 Features
 
 - **Hakita Plushie Spawner**: Automatically spawns a plushie of Hakita at the start of every level.
-- **Persistent Plushie**: The plushie respawns upon player death, ensuring you never lose your challenge companion.
+- **Persistent Plushie**: The plushie respawns upon player death or if it falls out of the map, ensuring you never lose your challenge companion.
+- **Smart Respawn System** *(New in v1.1.0)*: Plushies that fall into the void or disappear from the map are automatically teleported back to the player.
+- **Organized Spawn** *(New in v1.1.0)*: Plushies now spawn neatly stacked above the player’s head at the start of each level, preventing chaotic scatter.
+- **Notification System** *(New in v1.1.0)*: A message now appears when plushies are respawned, indicating the exact number retrieved.
 - **Dynamic Gameplay**: Adds a layer of strategy to ULTRAKILL, as you must protect and carry the plushie while navigating intense combat scenarios.
 - **Challenge-Ready**: Perfect for self-imposed challenges, speedruns, or just a bit of fun!
 
@@ -15,7 +22,7 @@
 
 ## 🚧 Limitations
 
-- **Restart Checkpoint Exclusion**: The plushie does not respawn when the player forcefully restarts from a checkpoint. While this mechanic is not fully implemented, it adds an extra layer of caution to the challenge.
+- **Manual Checkpoint Restarts**: Plushies do not respawn when the player forcefully restarts from a checkpoint, requiring additional care during these scenarios.
 
 ---
 
@@ -54,7 +61,7 @@ For additional help, visit the [Issues](https://github.com/MrRaposinha/HakitaSup
 
 ## 🤝 Contributing
 
-Want to refine this mod or fix the restart checkpoint limitation? Contributions are welcome! Here’s how:
+Want to refine this mod or suggest new features? Contributions are welcome! Here’s how:
 1. Fork this repository.
 2. Create a new branch for your changes.
 3. Submit a pull request with a description of your updates.
@@ -67,4 +74,16 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-Thank you for trying out **Hakita Supremacy**! Have fun, and may you successfully carry the plushie to victory! 🎮🔥
+Thank you for trying out **Hakita Supremacy**! With the Plushie Perfection Update (v1.1.0), your challenge is more dynamic and polished than ever. Have fun, and may you successfully carry the plushie to victory! 🎮🔥
+
+---
+
+### **What's New in v1.1.0?**
+- Intelligent respawning system for lost or voided plushies.
+- Organized plushie spawn positioning to prevent chaotic scatter.
+- Notifications for plushie respawns.
+- Bug fixes and optimizations for smoother gameplay.
+
+--- 
+
+O README agora reflete todas as melhorias da atualização v1.1.0, com destaque para as novidades, garantindo clareza para novos e antigos usuários do mod.
